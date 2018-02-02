@@ -9,7 +9,7 @@
     <bean id="ignite.cfg" class="org.apache.ignite.configuration.IgniteConfiguration">
         <!-- Set to true to enable distributed class loading for examples, default is false. -->
         <property name="peerClassLoadingEnabled" value="false"/>
-        <property name="igniteHome" value="E:\Portable\Apache\apache-ignite-fabric-1.7.0-bin" />
+       
 
         <property name="gridName" value="testGrid"/>
         <!-- Enable client mode. -->
